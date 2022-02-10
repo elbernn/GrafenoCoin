@@ -2,3 +2,4 @@
 GrafenoCoin BSC /
 GrafenoCoin TRON /
 GrafenoCoin Polygon /
+GrafenoCoin Avalanche /
