@@ -1,5 +1,5 @@
 # GrafenoCoin GFNC
-GrafenoCoin BSC /
-GrafenoCoin TRON /
-GrafenoCoin POLYGON /
-GrafenoCoin AVALANCHE /
+# NetWork: BSC
+# NetWork: TRON
+# NetWork: POLYGON
+# NetWork: AVALANCHE
