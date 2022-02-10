@@ -1,5 +1,5 @@
 # GrafenoCoin GFNC
 GrafenoCoin BSC /
 GrafenoCoin TRON /
-GrafenoCoin Polygon /
-GrafenoCoin Avalanche /
+GrafenoCoin POLYGON /
+GrafenoCoin AVALANCHE /
