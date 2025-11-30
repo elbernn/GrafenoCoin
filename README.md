@@ -8,8 +8,6 @@ GrafenoCoin is currently listed on the following blockchain networks:
    # BSC (Binance Smart Chain)
    # TRON 
    # Polygon
-   # Solana
-   # TON (Telegram)
 
 # Overview
 
@@ -23,7 +21,6 @@ Key Features
 
 # Official Communities
 
-    Twitter/X: @gfnconline
     Website: https://gfnc.online
     Telegram Channel: GFNC
     Telegram Group: Grafeno GFNC
